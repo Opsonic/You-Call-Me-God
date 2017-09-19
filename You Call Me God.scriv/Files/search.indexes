@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Title>Inbox Full</Title>
+            <Synopsis>God is sat, listening to prayers playing through a contraption. Eventually a sythentic voice anounces his inbox is full, so God sighs and picks the phone sitting by his side.
+His voice slowly goes cold, the camera is tightly wrapped round his expression. The scene fades to him staring in the mirror with the same face. He turns round as the scene fades to black.</Synopsis>
+            <Text>I/E. THE CLOUD - DAY
+Someone is seen praying, a stupid yet desperate prayer, the camera slowly pans to the sky revealing a satellite dish in  the clouds, which is attached to a contrived and ridiculous contraption. God sits beside it reading. There is a sequence of beeps after the man stops talking, a few prayers play in this format.
+RANDOM PERSON 1
+Err, so I don't normally do this, and well you're not real but if you are, well I did a bad thing, a real bad thing, but I swear the drugs weren't mine, I’d never touch the stuff. Who am I kidding, you know. You know everything. What am I going to do, it’s all gone, you won't help me.
+RANDOM PERSON 2
+Those precious little kitten faces stared at me, I couldn't help it. The little beady eyes were full of evil. I've sinned, I have sinned...
+RANDOM PERSON 3
+(Wheezing)
+Help, someone, something.
+(Cough)
+A cow, I'm under a cow.
+RANDOM PERSON 4
+A black demon passed me, a little scoundrel cat, but I let it pass. I let it go to wreak its curses. What have I done? Forgive me.
+RANDOM PERSON 5
+Hey man, what the hell are you doing. Like what did I ever do to you. You're real shit. I thought you was meant to be all kinds of benevolent, but shit, you for real a Dick.
+SINNE-D
+Your Automated Prayer Processing Inbox is now full, please delete some prayers.
+GOD
+(sigh)
+I guess it’s time to do some work.
+God picks up the phone beside him and listens. His faces slowly deflates. The shot fades to him looking into a mirror, his expression unchanged. He sighs, and turns around.
+FADE TO BLACK.</Text>
+        </Document>
+        <Document ID="13">
+            <Title>Screenplay Format</Title>
+            <Text>SCREENPLAY FORMAT
+
+About This Template
+When compiled (File &gt; Compile), this project will generate a formatted screenplay. By default it is set to export to Final Draft 8 format, but you can change this to print it or export it to a different format instead.
+
+How To Use This Template
+Edit the Title Page document inside the “Front Matter” folder to ensure it contains the correct information.
+Create new documents inside the “Scenes” folder and use Scrivener’s script mode (Format &gt; Scriptwriting &gt; Script Mode - Screenplay) to write your script. It’s up to you whether you use a separate document for each scene or not.
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your screenplay. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+Compile your script for printing or exporting by selecting File &gt; Compile.
+
+Making Changes
+There are various minor changes you can make to the settings to tweak this template so that it better suits your needs, as follows:
+Project and author name: The default screenplay title and author name can be customised by going to Project &gt; Meta-Data Settings… and choosing the “Project Properties” tab.
+Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
+To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
+To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
+
+Sample Document
+See the “Sample Script” PDF file in the Research folder for an example of a script that has been created using this template.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="14">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="17">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Scenes</Title>
+        </Document>
+        <Document ID="22">
+            <Title>Front Matter</Title>
+        </Document>
+        <Document ID="23">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+by
+
+&lt;$fullname&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your name
+Your address
+Your phone number
+Your email address</Text>
+            <Notes>The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="27">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+	Role in Story:	
+
+	Related Characters:	
+
+	Season:	
+
+	Unique Features:	
+
+	Description:	
+
+	Sights:	
+	Sounds:	
+	Smells:	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="28">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+
+	Role in Story:	
+
+
+	Occupation:	
+     	
+
+	Physical Description:	
+
+	Personality:	
+
+	Habits/Mannerisms:	
+      	
+
+	Background:	
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+      	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="31">
+            <Title>TITLE CARD</Title>
+            <Text>TITLE CARD 
+FADE TO BLACK.</Text>
+        </Document>
+        <Document ID="32">
+            <Title>The Fools Pray</Title>
+            <Text>INT. NEWS STUDIO - MORNING
+FADE IN:
+An eccentric news presenter reports on the aftermath of a terrible tornado That swept through Philadelphia. 
+REPORTER
+Good morning America. Today we once more face a terrible trauma. A tornado carved through Philadelphia last night. It came without warning and was short lived. However behind it is a wake of devastation.
+It has left some so desolate that they call out for God. They make spectacles on the streets begging for mercy from a man we’ve all but proved doesn’t exist with our science stuff.
+But desperate people do desperate things. So please don’t judge them. Local charities are asking for us to come together, as this so clearly demonstrates, more than any other piece of evidence, that they need our help. It is our duty to save them from their illogical ideas, and take away any possible comfort it may have given them.
+CUT TO:</Text>
+        </Document>
+        <Document ID="33">
+            <Title>The Morning After</Title>
+            <Text>INT. HOME - MORNING
+God walks into the living room. Isabel is standing in front of the TV. The news is on and there is a report of a big natural disaster.
+GOD
+(under breath) Oh shit!
+ISABEL
+What?
+GOD
+Nothing, what’s happened?
+ISABEL
+There was a tornado not far from here.
+GOD
+Oh, God.
+ISABEL
+Yeah, we were pretty lucky.
+GOD
+Lucky, sure.
+ISABEL
+They don't how many are missing yet, but a lot of deaths have already been reported.
+GOD
+Not again.
+ISABEL
+I know, it seems like every other day.
+GOD
+Yeah something like that.
+ISABEL
+We should go volunteer. School is cancelled for the day. I don't think I'd be able to think straight anyway.
+GOD
+At least you’re still a hope in this place.
+ISABEL
+It’s just the right thing to do.
+GOD
+I don’t know if I can face it myself. You should go though, do the right thing.
+ISABEL
+Do you still have work?
+GOD
+Oh yeah work, because that’s how we have this house, and how I provide money. I do, and I can’t miss it. No way.
+ISABEL
+Well can you drop me to the nearby by relief centre, it isn’t far from here.
+GOD
+Sure thing.
+CUT TO:
+</Text>
+        </Document>
+        <Document ID="35">
+            <Title>Through The Rubble</Title>
+            <Text>INT. CAR - MORNING
+Isabel and God are in the car going not much faster than a walking pace to the local relief center. Outside the window debris passes by amongst it people can be seen on their knees. A boy chases a kite drifting down the road, he leaps and tumbles over the obstacles in front him, ever so close to clamping a fist round the string. As the car stops, so does the boy, and he breaks down in tears. 
+ISABEL
+At least people are kind, even if God isn’t.
+GOD
+Neither are kind.
+ISABEL
+Maybe not all people are kind, but the one God is certainly not. 
+GOD
+It seems that way.
+ISABEL
+Oh, look it’s Trilby.
+GOD
+It really is all hands on deck.
+ISABEL
+Time to make a difference, see you later.
+CUT TO:</Text>
+        </Document>
+        <Document ID="36">
+            <Title>Proper Paperwork</Title>
+            <Text>EXT. RELIEF CENTER - DAY
+Isabel walks up to trilby, a small man with a long trench coat that drags 2 feet along the floor. His face is troubled with a twisting tache that distracts from his otherwise handsome face. Isabel looks around with a strange mixture of eagerness and remorse. 
+TRILBY
+Isabel? I’m delighted by this sight.
+ISABEL
+What’s a detective’s duty round here?
+TRILBY
+It’s just such a horrid horror that they needed all the hands handy. 
+ISABEL
+Well here is another pair.
+TRILBY
+Great, you can help put me the slews of clues to use, and settle the blues of those in the missing person queues.
+ISABEL
+Anything to help.
+A buff man with a clipboard walks over, and interrupts the conversation.
+RELIEF OVERSEER
+Excuse me, are you allowing a stranger to help without filling out the necessary paperwork. Did you even get her to sign the B3?
+TRILBY
+(timidly}
+This fine lady is with me and will cause no trouble. I assure you.
+The overseer begins handing Isabel inordinate amounts of paper.
+ISABEL
+Are all these forms necessary?
+RELIEF OVERSEER
+You see I can tell she is going to be trouble.
+ISABEL
+This seems a bit much though. 
+RELIEF OVERSEER
+It is just to assure that we aren’t responsible for your safety, standard stuff.
+Isabel reluctantly signs the forms.
+TRILBY
+Well, we shall get out of your way. She'll be my responsibility.
+RELIEF OVERSEER
+Well if she decides to overthrow the current power structures because of unnecessary bureaucracy then on your head be it.
+MATCH CUT TO:</Text>
+        </Document>
+        <Document ID="37">
+            <Title>Thinking Outloud</Title>
+            <Text>INT. CAR - MORNING
+The recent moments play by in reverse, till they reach the point when Isabel left the car. The camera pans into God’s forehead and after a moment of pitch black it faces out from his point of view.
+The world is different, everything is moving. Peoples faces are their feelings, the walls can be heard speaking. 
+WHISPER
+Do you love?
+Every sound can be heard. A scream rings out. The camera moves round the earth to a woman shaking a tea towel at a mouse. Then the screen folds to black, like eyelids falling down, and lifts back up to reveal the scene in the car once more.
+WHISPER (CONT’D)
+Do you love? 
+God looks round at all the rubble. Faces leap from the tears of the victims and begin speaking to god.
+TEAR
+My home has gone.
+TEAR (CONT’D)
+Where is my family?
+TEAR (CONT’D)
+These legs are crushed.
+WHISPER
+Do you love?
+CUT TO:</Text>
+        </Document>
+        <Document ID="39">
+            <Title>Why?</Title>
+            <Text>INT. THE CLOUD - MORNING
+God is sitting in a large leather armchair, with a whisky by his side and a newspaper in his hand.
+SINNE-D
+ 
+</Text>
+        </Document>
+        <Document ID="40">
+            <Title>Barbecue</Title>
+            <Text>INT. BACKYARD - AFTERNOON</Text>
+        </Document>
+        <Document ID="41">
+            <Title>Episode One [Pilot]</Title>
+        </Document>
+        <Document ID="42">
+            <Title>Ideas</Title>
+        </Document>
+        <Document ID="43"/>
+        <Document ID="44"/>
+    </Documents>
+</SearchIndexes>
