@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Opsonic-PC" Modified="2017-09-21 16:04:26 +0100" ModID="37014ED3-0B7A-4F28-AD23-223B6A9A2394">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Opsonic-PC" Modified="2017-09-21 16:06:15 +0100" ModID="990D862D-0CFC-45AA-8827-D233B9EB3AC6">
     <Binder>
         <BinderItem ID="13" UUID="8290031F-83D1-4DF5-B35B-87877F81B852" Created="2010-10-26 15:33:29 +0100" Modified="2016-07-11 14:40:08 +0100" Type="Text">
             <Title>Screenplay Format</Title>
@@ -54,142 +54,215 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="41" UUID="FF1CD686-BD68-4A53-AA8F-1CB597228CC2" Created="2017-09-18 19:19:57 +0100" Modified="2017-09-18 20:10:51 +0100" Type="Folder">
-                    <Title>Episode One [Pilot]</Title>
+                <BinderItem ID="50" UUID="305775BA-C30C-4C2B-BA96-5E7504EC30D6" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Folder">
+                    <Title>Season One</Title>
                     <MetaData>
-                        <LabelID>3</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="19" UUID="42A9D144-2FD3-45F9-9E36-B7199B8B7B2C" Created="2010-10-26 15:37:05 +0100" Modified="2017-09-18 20:10:58 +0100" Type="Folder">
-                            <Title>Scenes</Title>
+                        <BinderItem ID="51" UUID="97D2C967-98E5-430C-8916-62DE91185429" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Folder">
+                            <Title>Episode One [V0.1]</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
-                                <StatusID>1</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
-                            <CorkboardAndOutliner>
-                                <CorkboardSettings>
-                                    <FreeformMode>Yes</FreeformMode>
-                                </CorkboardSettings>
-                            </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem ID="3" UUID="C29CEC09-3AA6-4B61-B21F-40DDFAA2F6A8" Created="2007-03-26 01:41:05 +0100" Modified="2017-09-19 21:11:40 +0100" Type="Text">
-                                    <Title>Inbox Full</Title>
+                                <BinderItem ID="52" UUID="8481FD18-368C-4296-A17A-ECD66D914647" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Folder">
+                                    <Title>Scenes</Title>
                                     <MetaData>
-                                        <LabelID>5</LabelID>
+                                        <LabelID>3</LabelID>
+                                        <StatusID>1</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextMode>Script</TextMode>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
-                                    <CorkboardAndOutliner>
-                                        <CorkboardSettings>
-                                            <FreeformMode>Yes</FreeformMode>
-                                        </CorkboardSettings>
-                                    </CorkboardAndOutliner>
+                                    <Children>
+                                        <BinderItem ID="53" UUID="1C29C806-63D0-49A2-A2AF-B84455321519" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Text">
+                                            <Title>Inbox Full</Title>
+                                            <MetaData>
+                                                <LabelID>5</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="54" UUID="CB2E6037-F22A-4CBC-8846-CAE3954B567B" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Text">
+                                            <Title>TITLE CARD</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="55" UUID="17A4A6C4-C51C-4EFB-9AE1-BC4FE593B354" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Text">
+                                            <Title>The Fools Pray</Title>
+                                            <MetaData>
+                                                <LabelID>5</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="56" UUID="A5D0C598-9B54-4CDE-A84F-205DA2F406FB" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Text">
+                                            <Title>The Morning After</Title>
+                                            <MetaData>
+                                                <LabelID>6</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="57" UUID="B2C2A7B9-A538-4D07-B1B8-B1E57C408430" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Text">
+                                            <Title>Through The Rubble</Title>
+                                            <MetaData>
+                                                <LabelID>6</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="58" UUID="96A7420F-DEDF-4D00-91BA-B8A40F99CBB6" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Text">
+                                            <Title>Proper Paperwork</Title>
+                                            <MetaData>
+                                                <LabelID>6</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="59" UUID="620FC4FA-64F7-477B-BF83-DB66859794CD" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Text">
+                                            <Title>Thinking Outloud</Title>
+                                            <MetaData>
+                                                <LabelID>5</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="60" UUID="6D6D6702-9AAB-4797-9679-054675B09FB1" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Text">
+                                            <Title>Why?</Title>
+                                            <MetaData>
+                                                <LabelID>5</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="61" UUID="08EE66E5-A306-4FA3-88E9-3CDA50A8F969" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Text">
+                                            <Title>Barbecue</Title>
+                                            <MetaData>
+                                                <LabelID>5</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="62" UUID="716713B7-47CA-44AC-A1C3-2E02ED73C9E8" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Text">
+                                            <Title>Cockney Troubles</Title>
+                                            <MetaData>
+                                                <LabelID>6</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                                <BinderItem ID="31" UUID="3BFC662E-7985-4355-B50E-0EE6D7F72F49" Created="2017-09-18 18:36:02 +0100" Modified="2017-09-18 20:03:49 +0100" Type="Text">
-                                    <Title>TITLE CARD</Title>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="63" UUID="E9A0D395-5729-45B1-A846-5E2E40F3D7BC" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Folder">
+                            <Title>The Cloud Crashes [V0.1]</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="64" UUID="FE544291-1C2C-4697-9D47-E95DA0A4617B" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Folder">
+                                    <Title> Scenes</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextMode>Script</TextMode>
-                                        <TextSelection>26,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="65" UUID="A17116BE-FD8A-423B-8AEC-3D15E9518DE2" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:06:11 +0100" Type="Text">
+                                            <Title>[Blank]</Title>
+                                            <MetaData>
+                                                <LabelID>5</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                                <BinderItem ID="32" UUID="5A1FA906-0951-4375-9D8A-2AAEEBC24FAA" Created="2017-09-18 19:04:26 +0100" Modified="2017-09-19 21:20:40 +0100" Type="Text">
-                                    <Title>The Fools Pray</Title>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="66" UUID="FA9739EF-7F59-4700-9355-CEDE85A9A4DD" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Folder">
+                            <Title>Speaking To The Planets [V0.1]</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="67" UUID="B9F8A0C9-8F54-40FE-9F15-CADC4E96BB00" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Folder">
+                                    <Title>Scenes</Title>
                                     <MetaData>
-                                        <LabelID>5</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextMode>Script</TextMode>
-                                        <TextSelection>878,0</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="33" UUID="02CD2996-307B-4E6C-A50D-7D8704B11972" Created="2017-09-18 19:05:38 +0100" Modified="2017-09-19 21:14:31 +0100" Type="Text">
-                                    <Title>The Morning After</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextMode>Script</TextMode>
-                                        <TextSelection>405,0</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="35" UUID="F468BFBA-D041-4968-A2C8-70BB1387342E" Created="2017-09-18 19:15:06 +0100" Modified="2017-09-18 20:05:05 +0100" Type="Text">
-                                    <Title>Through The Rubble</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextMode>Script</TextMode>
-                                        <TextSelection>706,0</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="36" UUID="B83D5D19-EEA4-466B-9755-E1266893A14F" Created="2017-09-18 19:15:50 +0100" Modified="2017-09-19 21:17:06 +0100" Type="Text">
-                                    <Title>Proper Paperwork</Title>
-                                    <MetaData>
-                                        <LabelID>6</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextMode>Script</TextMode>
-                                        <TextSelection>932,0</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="37" UUID="10430D42-FF8E-4CBF-BA3C-F04A04416D9C" Created="2017-09-18 19:16:08 +0100" Modified="2017-09-19 21:18:16 +0100" Type="Text">
-                                    <Title>Thinking Outloud</Title>
-                                    <MetaData>
-                                        <LabelID>5</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextMode>Script</TextMode>
-                                        <TextSelection>850,0</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="39" UUID="2EAEFC89-14B6-4006-A4B0-76F32950A07A" Created="2017-09-18 19:16:55 +0100" Modified="2017-09-18 20:04:59 +0100" Type="Text">
-                                    <Title>Why?</Title>
-                                    <MetaData>
-                                        <LabelID>5</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextMode>Script</TextMode>
-                                        <TextSelection>134,0</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem ID="40" UUID="30260C00-47E0-48A6-A8A1-CD66409DD7F5" Created="2017-09-18 19:17:06 +0100" Modified="2017-09-18 20:04:59 +0100" Type="Text">
-                                    <Title>Barbecue</Title>
-                                    <MetaData>
-                                        <LabelID>5</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextMode>Script</TextMode>
-                                        <TextSelection>25,0</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="68" UUID="1C715B13-A2F2-4AD2-A7FC-50633E9E10ED" Created="2017-09-21 16:05:38 +0100" Modified="2017-09-21 16:05:38 +0100" Type="Text">
+                                            <Title>Maybe You'll Understand</Title>
+                                            <MetaData>
+                                                <LabelID>5</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <FileExtension>rtf</FileExtension>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextMode>Script</TextMode>
+                                                <Target Type="Words">0</Target>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -374,23 +447,6 @@
                     <FreeformMode>Yes</FreeformMode>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
-            <Children>
-                <BinderItem ID="18" UUID="8F7756A0-B611-4941-B6DB-BBDA4FD1B11D" Created="2010-10-19 13:06:35 +0100" Modified="2017-09-18 19:54:51 +0100" Type="Folder">
-                    <Title>Characters</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Characters (Photo).tiff</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                    <CorkboardAndOutliner>
-                        <CorkboardSettings>
-                            <FreeformMode>Yes</FreeformMode>
-                        </CorkboardSettings>
-                    </CorkboardAndOutliner>
-                </BinderItem>
-            </Children>
         </BinderItem>
     </Binder>
     <LabelSettings>
@@ -423,7 +479,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 11:44:59 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="294" Characters="2275" Date="2017-09-21 16:03:39 +0100"/>
+        <PreviousSession Words="2250" Characters="12944" Date="2017-09-21 16:03:39 +0100"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="0.901961 0.917647 0.933333">
