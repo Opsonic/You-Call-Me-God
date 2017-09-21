@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Opsonic-PC" Modified="2017-09-19 21:20:42 +0100" ModID="E2371D8B-086B-43F8-9080-130AAD1C4C92">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Opsonic-PC" Modified="2017-09-21 16:04:26 +0100" ModID="37014ED3-0B7A-4F28-AD23-223B6A9A2394">
     <Binder>
         <BinderItem ID="13" UUID="8290031F-83D1-4DF5-B35B-87877F81B852" Created="2010-10-26 15:33:29 +0100" Modified="2016-07-11 14:40:08 +0100" Type="Text">
             <Title>Screenplay Format</Title>
@@ -206,7 +206,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="18" UUID="8F7756A0-B611-4941-B6DB-BBDA4FD1B11D" Created="2010-10-19 13:06:35 +0100" Modified="2017-09-18 19:54:51 +0100" Type="Folder">
+        <BinderItem ID="43" UUID="4CE9C459-9581-44B8-8F23-99D3CAD44E4F" Created="2017-09-21 16:04:05 +0100" Modified="2017-09-21 16:04:05 +0100" Type="Folder">
             <Title>Characters</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -215,11 +215,86 @@
             <TextSettings>
                 <Target Type="Words">0</Target>
             </TextSettings>
-            <CorkboardAndOutliner>
-                <CorkboardSettings>
-                    <FreeformMode>Yes</FreeformMode>
-                </CorkboardSettings>
-            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="44" UUID="C70B802B-CDC0-4A7B-BBCB-9C6E77D791FF" Created="2017-09-21 16:04:05 +0100" Modified="2017-09-21 16:04:05 +0100" Type="Text">
+                    <Title>God</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="45" UUID="F1768A52-9D97-46AC-91F1-AF6307DEABBF" Created="2017-09-21 16:04:05 +0100" Modified="2017-09-21 16:04:05 +0100" Type="Text">
+                    <Title>Isabel</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="46" UUID="09A00511-9897-43C2-8B09-6E38E1A46B19" Created="2017-09-21 16:04:05 +0100" Modified="2017-09-21 16:04:05 +0100" Type="Text">
+                    <Title>Andrew</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="47" UUID="95D6994C-F430-4A05-A86F-07F96AC3F07C" Created="2017-09-21 16:04:05 +0100" Modified="2017-09-21 16:04:05 +0100" Type="Text">
+                    <Title>Sandra</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="48" UUID="332CD1AD-0165-4D7E-B94F-2A362160EE30" Created="2017-09-21 16:04:05 +0100" Modified="2017-09-21 16:04:05 +0100" Type="Text">
+                    <Title>Trilby Tillman</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="49" UUID="2A56F365-CC02-4882-B98D-2E7CEA4D0269" Created="2017-09-21 16:04:05 +0100" Modified="2017-09-21 16:04:05 +0100" Type="Text">
+                    <Title>SINNE-D</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem ID="17" UUID="1AAF6DF7-D218-4922-88D6-CCFBFF37CF0B" Created="2010-10-19 13:06:37 +0100" Modified="2017-09-18 19:54:51 +0100" Type="Folder">
             <Title>Places</Title>
@@ -299,6 +374,23 @@
                     <FreeformMode>Yes</FreeformMode>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="18" UUID="8F7756A0-B611-4941-B6DB-BBDA4FD1B11D" Created="2010-10-19 13:06:35 +0100" Modified="2017-09-18 19:54:51 +0100" Type="Folder">
+                    <Title>Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Characters (Photo).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <LabelSettings>
@@ -331,7 +423,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 11:44:59 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="65" Characters="362" Date="2017-09-19 20:46:42 +0100"/>
+        <PreviousSession Words="294" Characters="2275" Date="2017-09-21 16:03:39 +0100"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="0.901961 0.917647 0.933333">
